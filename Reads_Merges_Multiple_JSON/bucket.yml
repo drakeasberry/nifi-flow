@@ -1,0 +1,7 @@
+flows:
+  9652e079-b2f9-4d56-a18d-d5d42d4e00fd: {ver: 1, file: Read_and_Merge_JSON.snapshot,
+    comments: Initial commit, author: anonymous, created: 1740439553510, flowName: Read
+      and Merge JSON, flowDesc: This collects mulitple json files and merges them
+      together into oneput in json format.}
+layoutVer: 1
+bucketId: 690f1e62-38f8-4040-9b34-809b04217f6a
