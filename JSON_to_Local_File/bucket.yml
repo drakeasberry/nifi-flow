@@ -1,0 +1,8 @@
+flows:
+  504163c8-124d-44a8-a2bf-9dfe19dbf5e1: {ver: 1, file: Write_JSON_to_Local_Machine.snapshot,
+    comments: Initial commit, author: anonymous, created: 1740439370081, flowName: Write
+      JSON to Local Machine, flowDesc: This takes the output port files of json converter
+      and uses it as the input port here to then update the filename and save to local
+      machine.}
+layoutVer: 1
+bucketId: 4a6b0a2d-fb5a-4524-9b36-721b39d696bc
