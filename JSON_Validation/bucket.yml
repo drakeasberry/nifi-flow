@@ -1,7 +1,4 @@
 flows:
-  4d025da9-26a5-45fd-81ff-b62e2b2d7dfb: {ver: 1, file: Conway_Flow.snapshot, author: anonymous,
-    created: 1740780276123, flowName: Conway Flow, flowDesc: How Conway validated
-      the JSON}
   275f7c86-0c5a-42b5-976c-85b98fc69c62: {ver: 1, file: JSON_Validation.snapshot, comments: '',
     author: anonymous, created: 1740780446193, flowName: JSON Validation, flowDesc: How
       Conway Validated the json}
