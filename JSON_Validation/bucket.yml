@@ -1,6 +1,0 @@
-flows:
-  275f7c86-0c5a-42b5-976c-85b98fc69c62: {ver: 1, file: JSON_Validation.snapshot, comments: '',
-    author: anonymous, created: 1740780446193, flowName: JSON Validation, flowDesc: How
-      Conway Validated the json}
-layoutVer: 1
-bucketId: 724fb2ad-6928-4f11-9e01-458d8981a56a
