@@ -15,115 +15,16 @@
           "componentType" : "CONNECTION",
           "destination" : {
             "comments" : "",
-            "groupId" : "7a5b8f27-07ef-3f47-a188-15848bc089a1",
-            "id" : "be14dbe9-89a2-3e70-ae8b-6aac7e8c7008",
-            "instanceIdentifier" : "9db44887-53bc-3aab-02b3-a8303c0369a8",
-            "name" : "Funnel",
-            "type" : "FUNNEL"
-          },
-          "flowFileExpiration" : "0 sec",
-          "groupIdentifier" : "7a5b8f27-07ef-3f47-a188-15848bc089a1",
-          "identifier" : "e9ceb2bc-ccaf-32dc-a5c6-3865e453ea69",
-          "instanceIdentifier" : "dce6985b-334a-3d63-84f1-ce50ed209d69",
-          "labelIndex" : 0,
-          "loadBalanceCompression" : "DO_NOT_COMPRESS",
-          "loadBalanceStrategy" : "DO_NOT_LOAD_BALANCE",
-          "name" : "",
-          "partitioningAttribute" : "",
-          "prioritizers" : [ ],
-          "selectedRelationships" : [ "failure" ],
-          "source" : {
-            "comments" : "",
-            "groupId" : "7a5b8f27-07ef-3f47-a188-15848bc089a1",
-            "id" : "aadc0821-a9af-3a68-af62-b1ae1a835a72",
-            "instanceIdentifier" : "dcaf0d55-ccad-3e90-dc80-1e56a4c09c15",
-            "name" : "ValidateJson",
-            "type" : "PROCESSOR"
-          },
-          "zIndex" : 0
-        }, {
-          "backPressureDataSizeThreshold" : "1 GB",
-          "backPressureObjectThreshold" : 10000,
-          "bends" : [ ],
-          "componentType" : "CONNECTION",
-          "destination" : {
-            "comments" : "",
-            "groupId" : "7a5b8f27-07ef-3f47-a188-15848bc089a1",
-            "id" : "268a6b98-7a30-356e-b147-c41dfe176f31",
-            "instanceIdentifier" : "023cad4b-4867-3b1c-93ee-a60dc3ff660f",
-            "name" : "Funnel",
-            "type" : "FUNNEL"
-          },
-          "flowFileExpiration" : "0 sec",
-          "groupIdentifier" : "7a5b8f27-07ef-3f47-a188-15848bc089a1",
-          "identifier" : "72afa1a2-38ad-3d81-820c-c7e147571637",
-          "instanceIdentifier" : "2d9b2fe9-f8bf-35fc-e7d8-d02a32a42a11",
-          "labelIndex" : 0,
-          "loadBalanceCompression" : "DO_NOT_COMPRESS",
-          "loadBalanceStrategy" : "DO_NOT_LOAD_BALANCE",
-          "name" : "",
-          "partitioningAttribute" : "",
-          "prioritizers" : [ ],
-          "selectedRelationships" : [ "invalid" ],
-          "source" : {
-            "comments" : "",
-            "groupId" : "7a5b8f27-07ef-3f47-a188-15848bc089a1",
-            "id" : "aadc0821-a9af-3a68-af62-b1ae1a835a72",
-            "instanceIdentifier" : "dcaf0d55-ccad-3e90-dc80-1e56a4c09c15",
-            "name" : "ValidateJson",
-            "type" : "PROCESSOR"
-          },
-          "zIndex" : 0
-        }, {
-          "backPressureDataSizeThreshold" : "1 GB",
-          "backPressureObjectThreshold" : 10000,
-          "bends" : [ ],
-          "componentType" : "CONNECTION",
-          "destination" : {
-            "comments" : "",
-            "groupId" : "7a5b8f27-07ef-3f47-a188-15848bc089a1",
-            "id" : "177deed4-45e0-3004-80b5-9a49bd7151d2",
-            "instanceIdentifier" : "56ba264d-954d-38b1-2690-3083b0582f65",
-            "name" : "Funnel",
-            "type" : "FUNNEL"
-          },
-          "flowFileExpiration" : "0 sec",
-          "groupIdentifier" : "7a5b8f27-07ef-3f47-a188-15848bc089a1",
-          "identifier" : "845c1864-ec01-32c3-b1d7-658a31fc8576",
-          "instanceIdentifier" : "6fbb11bc-4035-34ca-3746-78c48dbdcc53",
-          "labelIndex" : 0,
-          "loadBalanceCompression" : "DO_NOT_COMPRESS",
-          "loadBalanceStrategy" : "DO_NOT_LOAD_BALANCE",
-          "name" : "",
-          "partitioningAttribute" : "",
-          "prioritizers" : [ ],
-          "selectedRelationships" : [ "valid" ],
-          "source" : {
-            "comments" : "",
-            "groupId" : "7a5b8f27-07ef-3f47-a188-15848bc089a1",
-            "id" : "aadc0821-a9af-3a68-af62-b1ae1a835a72",
-            "instanceIdentifier" : "dcaf0d55-ccad-3e90-dc80-1e56a4c09c15",
-            "name" : "ValidateJson",
-            "type" : "PROCESSOR"
-          },
-          "zIndex" : 0
-        }, {
-          "backPressureDataSizeThreshold" : "1 GB",
-          "backPressureObjectThreshold" : 10000,
-          "bends" : [ ],
-          "componentType" : "CONNECTION",
-          "destination" : {
-            "comments" : "",
-            "groupId" : "7a5b8f27-07ef-3f47-a188-15848bc089a1",
-            "id" : "aadc0821-a9af-3a68-af62-b1ae1a835a72",
-            "instanceIdentifier" : "dcaf0d55-ccad-3e90-dc80-1e56a4c09c15",
+            "groupId" : "8809f49e-f597-3899-9104-c8c21f4944bf",
+            "id" : "ae16b60f-0ca6-35e3-be4d-fbc354222a67",
+            "instanceIdentifier" : "48c0adab-0195-1000-625c-af455db2dcb8",
             "name" : "ValidateJson",
             "type" : "PROCESSOR"
           },
           "flowFileExpiration" : "0 sec",
-          "groupIdentifier" : "7a5b8f27-07ef-3f47-a188-15848bc089a1",
-          "identifier" : "db92049b-0986-3634-a170-eae80493ccc5",
-          "instanceIdentifier" : "d30cd345-9e6b-397e-cf25-2656a1c2bea0",
+          "groupIdentifier" : "8809f49e-f597-3899-9104-c8c21f4944bf",
+          "identifier" : "1a6e1674-a49f-3402-a71d-5755783ba375",
+          "instanceIdentifier" : "48c39c1e-0195-1000-955e-8cbb949a5afe",
           "labelIndex" : 0,
           "loadBalanceCompression" : "DO_NOT_COMPRESS",
           "loadBalanceStrategy" : "DO_NOT_LOAD_BALANCE",
@@ -133,10 +34,109 @@
           "selectedRelationships" : [ "success" ],
           "source" : {
             "comments" : "",
-            "groupId" : "7a5b8f27-07ef-3f47-a188-15848bc089a1",
-            "id" : "5d830b8c-dec9-3fa7-91c8-c0a517b29c0c",
-            "instanceIdentifier" : "e7d2051a-59b7-3f8d-4267-641f2682b9b5",
+            "groupId" : "8809f49e-f597-3899-9104-c8c21f4944bf",
+            "id" : "da3bdb3b-afb7-3508-934f-781dfa14a53a",
+            "instanceIdentifier" : "48c0d0ea-0195-1000-283d-b7e64dcfe451",
             "name" : "GenerateFlowFile",
+            "type" : "PROCESSOR"
+          },
+          "zIndex" : 0
+        }, {
+          "backPressureDataSizeThreshold" : "1 GB",
+          "backPressureObjectThreshold" : 10000,
+          "bends" : [ ],
+          "componentType" : "CONNECTION",
+          "destination" : {
+            "comments" : "",
+            "groupId" : "8809f49e-f597-3899-9104-c8c21f4944bf",
+            "id" : "3de3acab-c9d4-3ff4-9c5d-82e908fe3e05",
+            "instanceIdentifier" : "48c3fd3d-0195-1000-f42c-a4bbfe851d23",
+            "name" : "Funnel",
+            "type" : "FUNNEL"
+          },
+          "flowFileExpiration" : "0 sec",
+          "groupIdentifier" : "8809f49e-f597-3899-9104-c8c21f4944bf",
+          "identifier" : "4be14ccf-05c5-393d-94c1-3ad9db1fc7a9",
+          "instanceIdentifier" : "48c42e43-0195-1000-4636-db34f665a679",
+          "labelIndex" : 0,
+          "loadBalanceCompression" : "DO_NOT_COMPRESS",
+          "loadBalanceStrategy" : "DO_NOT_LOAD_BALANCE",
+          "name" : "",
+          "partitioningAttribute" : "",
+          "prioritizers" : [ ],
+          "selectedRelationships" : [ "valid" ],
+          "source" : {
+            "comments" : "",
+            "groupId" : "8809f49e-f597-3899-9104-c8c21f4944bf",
+            "id" : "ae16b60f-0ca6-35e3-be4d-fbc354222a67",
+            "instanceIdentifier" : "48c0adab-0195-1000-625c-af455db2dcb8",
+            "name" : "ValidateJson",
+            "type" : "PROCESSOR"
+          },
+          "zIndex" : 0
+        }, {
+          "backPressureDataSizeThreshold" : "1 GB",
+          "backPressureObjectThreshold" : 10000,
+          "bends" : [ ],
+          "componentType" : "CONNECTION",
+          "destination" : {
+            "comments" : "",
+            "groupId" : "8809f49e-f597-3899-9104-c8c21f4944bf",
+            "id" : "38ebc04e-d8d9-3290-9a6a-d9d07f385907",
+            "instanceIdentifier" : "48c3eaa6-0195-1000-3567-0d0f4fcee545",
+            "name" : "Funnel",
+            "type" : "FUNNEL"
+          },
+          "flowFileExpiration" : "0 sec",
+          "groupIdentifier" : "8809f49e-f597-3899-9104-c8c21f4944bf",
+          "identifier" : "ec27fb17-caa3-38dd-a123-1a39a63b901b",
+          "instanceIdentifier" : "48c40de1-0195-1000-5e4e-86b790dacc64",
+          "labelIndex" : 0,
+          "loadBalanceCompression" : "DO_NOT_COMPRESS",
+          "loadBalanceStrategy" : "DO_NOT_LOAD_BALANCE",
+          "name" : "",
+          "partitioningAttribute" : "",
+          "prioritizers" : [ ],
+          "selectedRelationships" : [ "failure" ],
+          "source" : {
+            "comments" : "",
+            "groupId" : "8809f49e-f597-3899-9104-c8c21f4944bf",
+            "id" : "ae16b60f-0ca6-35e3-be4d-fbc354222a67",
+            "instanceIdentifier" : "48c0adab-0195-1000-625c-af455db2dcb8",
+            "name" : "ValidateJson",
+            "type" : "PROCESSOR"
+          },
+          "zIndex" : 0
+        }, {
+          "backPressureDataSizeThreshold" : "1 GB",
+          "backPressureObjectThreshold" : 10000,
+          "bends" : [ ],
+          "componentType" : "CONNECTION",
+          "destination" : {
+            "comments" : "",
+            "groupId" : "8809f49e-f597-3899-9104-c8c21f4944bf",
+            "id" : "c31e7747-dea2-351f-a791-c9ecd68d7603",
+            "instanceIdentifier" : "48c3f7db-0195-1000-a28b-a3dba8c54d39",
+            "name" : "Funnel",
+            "type" : "FUNNEL"
+          },
+          "flowFileExpiration" : "0 sec",
+          "groupIdentifier" : "8809f49e-f597-3899-9104-c8c21f4944bf",
+          "identifier" : "ed785352-1db9-3c4a-a544-d8653842d7d8",
+          "instanceIdentifier" : "48c41ce1-0195-1000-0a71-4ff0fae330f2",
+          "labelIndex" : 0,
+          "loadBalanceCompression" : "DO_NOT_COMPRESS",
+          "loadBalanceStrategy" : "DO_NOT_LOAD_BALANCE",
+          "name" : "",
+          "partitioningAttribute" : "",
+          "prioritizers" : [ ],
+          "selectedRelationships" : [ "invalid" ],
+          "source" : {
+            "comments" : "",
+            "groupId" : "8809f49e-f597-3899-9104-c8c21f4944bf",
+            "id" : "ae16b60f-0ca6-35e3-be4d-fbc354222a67",
+            "instanceIdentifier" : "48c0adab-0195-1000-625c-af455db2dcb8",
+            "name" : "ValidateJson",
             "type" : "PROCESSOR"
           },
           "zIndex" : 0
@@ -150,42 +150,42 @@
         "flowFileOutboundPolicy" : "STREAM_WHEN_AVAILABLE",
         "funnels" : [ {
           "componentType" : "FUNNEL",
-          "groupIdentifier" : "7a5b8f27-07ef-3f47-a188-15848bc089a1",
-          "identifier" : "177deed4-45e0-3004-80b5-9a49bd7151d2",
-          "instanceIdentifier" : "56ba264d-954d-38b1-2690-3083b0582f65",
+          "groupIdentifier" : "8809f49e-f597-3899-9104-c8c21f4944bf",
+          "identifier" : "c31e7747-dea2-351f-a791-c9ecd68d7603",
+          "instanceIdentifier" : "48c3f7db-0195-1000-a28b-a3dba8c54d39",
+          "position" : {
+            "x" : -132.0,
+            "y" : 299.0
+          }
+        }, {
+          "componentType" : "FUNNEL",
+          "groupIdentifier" : "8809f49e-f597-3899-9104-c8c21f4944bf",
+          "identifier" : "3de3acab-c9d4-3ff4-9c5d-82e908fe3e05",
+          "instanceIdentifier" : "48c3fd3d-0195-1000-f42c-a4bbfe851d23",
           "position" : {
             "x" : 392.0,
             "y" : 152.0
           }
         }, {
           "componentType" : "FUNNEL",
-          "groupIdentifier" : "7a5b8f27-07ef-3f47-a188-15848bc089a1",
-          "identifier" : "be14dbe9-89a2-3e70-ae8b-6aac7e8c7008",
-          "instanceIdentifier" : "9db44887-53bc-3aab-02b3-a8303c0369a8",
+          "groupIdentifier" : "8809f49e-f597-3899-9104-c8c21f4944bf",
+          "identifier" : "38ebc04e-d8d9-3290-9a6a-d9d07f385907",
+          "instanceIdentifier" : "48c3eaa6-0195-1000-3567-0d0f4fcee545",
           "position" : {
             "x" : -608.0,
             "y" : 240.0
           }
-        }, {
-          "componentType" : "FUNNEL",
-          "groupIdentifier" : "7a5b8f27-07ef-3f47-a188-15848bc089a1",
-          "identifier" : "268a6b98-7a30-356e-b147-c41dfe176f31",
-          "instanceIdentifier" : "023cad4b-4867-3b1c-93ee-a60dc3ff660f",
-          "position" : {
-            "x" : -132.0,
-            "y" : 299.0
-          }
         } ],
-        "identifier" : "7a5b8f27-07ef-3f47-a188-15848bc089a1",
+        "identifier" : "8809f49e-f597-3899-9104-c8c21f4944bf",
         "inputPorts" : [ ],
-        "instanceIdentifier" : "4e98d17c-0195-1000-bbd8-bdf6476a4cee",
+        "instanceIdentifier" : "dc899f9f-0194-1000-6f1e-088764f8bc03",
         "labels" : [ ],
         "maxConcurrentTasks" : 1,
-        "name" : "JSON_validated_NiFi_Flow",
+        "name" : "NiFi Flow",
         "outputPorts" : [ ],
         "position" : {
-          "x" : 936.0,
-          "y" : -24.0
+          "x" : 0.0,
+          "y" : 0.0
         },
         "processGroups" : [ ],
         "processors" : [ {
@@ -201,9 +201,9 @@
           "componentType" : "PROCESSOR",
           "concurrentlySchedulableTaskCount" : 1,
           "executionNode" : "ALL",
-          "groupIdentifier" : "7a5b8f27-07ef-3f47-a188-15848bc089a1",
-          "identifier" : "5d830b8c-dec9-3fa7-91c8-c0a517b29c0c",
-          "instanceIdentifier" : "e7d2051a-59b7-3f8d-4267-641f2682b9b5",
+          "groupIdentifier" : "8809f49e-f597-3899-9104-c8c21f4944bf",
+          "identifier" : "da3bdb3b-afb7-3508-934f-781dfa14a53a",
+          "instanceIdentifier" : "48c0d0ea-0195-1000-283d-b7e64dcfe451",
           "maxBackoffPeriod" : "10 mins",
           "name" : "GenerateFlowFile",
           "penaltyDuration" : "30 sec",
@@ -292,9 +292,9 @@
           "componentType" : "PROCESSOR",
           "concurrentlySchedulableTaskCount" : 1,
           "executionNode" : "ALL",
-          "groupIdentifier" : "7a5b8f27-07ef-3f47-a188-15848bc089a1",
-          "identifier" : "aadc0821-a9af-3a68-af62-b1ae1a835a72",
-          "instanceIdentifier" : "dcaf0d55-ccad-3e90-dc80-1e56a4c09c15",
+          "groupIdentifier" : "8809f49e-f597-3899-9104-c8c21f4944bf",
+          "identifier" : "ae16b60f-0ca6-35e3-be4d-fbc354222a67",
+          "instanceIdentifier" : "48c0adab-0195-1000-625c-af455db2dcb8",
           "maxBackoffPeriod" : "10 mins",
           "name" : "ValidateJson",
           "penaltyDuration" : "30 sec",
@@ -331,7 +331,7 @@
               "name" : "JSON Schema",
               "resourceDefinition" : {
                 "cardinality" : "SINGLE",
-                "resourceTypes" : [ "FILE", "TEXT", "URL" ]
+                "resourceTypes" : [ "URL", "TEXT", "FILE" ]
               },
               "sensitive" : false
             },
