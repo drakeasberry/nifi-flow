@@ -1,6 +1,0 @@
-flows:
-  ccec0550-3437-469d-b94b-7e7bce537a45: {ver: 2, file: Conway_Flow.snapshot, comments: update,
-    author: anonymous, created: 1741880897934, flowName: Conway Flow, flowDesc: Conways
-      flow for json validation}
-layoutVer: 1
-bucketId: 03091a7c-029a-40e3-a224-232ebb5b8a07
