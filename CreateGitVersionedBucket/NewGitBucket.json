@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1741985673583,
+    "description" : "This flow creates a new bucket using nifi-toolkit-cli commands to create a bucket versioned in git and allows the user to add flows to it from the nifi-ui without restarting all systems.",
+    "identifier" : "NewGitBucket",
+    "lastModifiedTimestamp" : 1741985673583,
+    "name" : "NewGitBucket",
+    "versionCount" : 0
+  },
+  "latest" : false
+}
