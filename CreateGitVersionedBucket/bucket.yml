@@ -1,5 +1,0 @@
-flows:
-  a145185b-5c04-4dc2-a539-9b4b550adc7b: {ver: 2, file: dummy.snapshot, author: anonymous,
-    created: 1741987829871, flowName: dummy, flowDesc: delete once real flow is imported}
-layoutVer: 1
-bucketId: c4948344-1ed5-4f0f-821f-2b68fe584a61
