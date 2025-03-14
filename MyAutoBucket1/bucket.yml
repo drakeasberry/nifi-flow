@@ -1,7 +1,5 @@
 flows:
   18260ed1-75a0-4200-b830-bf0a8de1a026: {ver: 1, file: Conway_Flow.snapshot, author: anonymous,
     created: 1741984798489, flowName: Conway Flow, flowDesc: ''}
-  630f2c0a-fa6c-4a4a-bdbd-ad5c53d5af99: {ver: 1, file: dummy.snapshot, author: anonymous,
-    created: 1741984835717, flowName: dummy, flowDesc: delete once real flow is imported}
 layoutVer: 1
 bucketId: ef0fb60c-2a33-4b57-865c-6e2d7ceb4aad
