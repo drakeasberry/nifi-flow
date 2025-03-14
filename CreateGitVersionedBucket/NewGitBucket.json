@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1741988537345,
+    "description" : "create a new versioned bucket in git",
+    "identifier" : "NewGitBucket",
+    "lastModifiedTimestamp" : 1741988537345,
+    "name" : "NewGitBucket",
+    "versionCount" : 0
+  },
+  "latest" : false
+}
