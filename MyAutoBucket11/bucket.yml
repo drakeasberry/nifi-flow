@@ -1,4 +1,6 @@
 flows:
+  ecea6727-b1ef-48c6-b0e4-7495026a86cd: {ver: 1, file: dummy2.snapshot, author: anonymous,
+    created: 1741982677938, flowName: dummy2, flowDesc: delete once real flow is imported}
   fcb5625d-6041-4d85-a240-16d5af5fc087: {ver: 1, file: dummy.snapshot, author: anonymous,
     created: 1741982604369, flowName: dummy, flowDesc: delete once real flow is imported}
 layoutVer: 1
