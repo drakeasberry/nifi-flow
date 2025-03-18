@@ -15,7 +15,9 @@ BUCKETS_YAML_FILE = "buckets.yaml"  # Location of the bucket.yaml file
 # Function to fetch the flow JSON from GitHub (or local file)
 def fetch_flow_json():
     # If from GitHub (requires access token for private repos)
-    headers = {"Authorization": "GITHUB_ACCESS_TOKEN"}  # If necessary
+    headers = {
+        "Authorization": "GITHUB_ACCESS_TOKEN"
+    }  # If necessary
     response = requests.get(f"{GITHUB_REPO_URL}/{FLOW_JSON_FILE}", headers=headers)
     print(response)
     if response.status_code == 200:
