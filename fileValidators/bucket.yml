@@ -1,5 +1,5 @@
 flows:
-  d27cf44392b6bd289a68ff608e2b66efdd4ca4c6: {ver: 1, file: CreateGitBucket.snapshot, author: anonymous,
+  d27cf44392b6bd289a68ff608e2b66efdd4ca4c6: {ver: 1, file: JSON_validated_NiFi_Flow_Conway.json, author: anonymous,
     created: 1741862579000, flowName: JSON_validated_NiFi_Flow_Conway, flowDesc: test json validator}
 layoutVer: 1
 bucketId: 32adbaae-a89a-41c4-998a-ca8bd96def49
